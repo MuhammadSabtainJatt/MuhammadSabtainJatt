@@ -1,4 +1,4 @@
-![logo](https://github.com/MuhammadSabtainJatt/MuhammadSabtainJatt/blob/main/github-header-image.png](https://github.com/MuhammadSabtainJatt/MuhammadSabtainJatt/blob/main/github-header-image%20(2).png))
+![logo](https://github.com/MuhammadSabtainJatt/MuhammadSabtainJatt/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Muhammad Sabtain</h1>
 <h3 align="center">A passionate Website developer from Pakistan</h3>
 
